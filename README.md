@@ -10,11 +10,11 @@
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [github-pages](https:)
+- Live Site URL: [github-pages](https://rottini.github.io/social-proof/)
 
 ## My process
 
